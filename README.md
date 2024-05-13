@@ -1,5 +1,5 @@
 
-## [Oxxxy](https://github.com/sergkrumas/oxxxy) [PyQt] [Windows]
+## [Oxxxy Screenshoter](https://github.com/sergkrumas/oxxxy) [PyQt] [Windows]
 GNU GPL Oxxxy Screenshoter for Windows Desktop
 
 ## [Krumassan Image Viewer](https://github.com/sergkrumas/image_viewer) [PyQt] [Windows]
