@@ -9,6 +9,8 @@ Open source Picasa Photo Viewer Clone supporting most image formats, AVIF, GIF a
 
 PureRef Clone (named «Boards») included.
 
+![](https://github.com/sergkrumas/image_viewer/blob/master/docs/screenshot.png)
+
 ## [LAN-Desktop](https://github.com/sergkrumas/lan_desktop) [PyQt] [Windows\Linux]
 Remote access tools for Local Networks
 
