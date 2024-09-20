@@ -18,3 +18,5 @@ Remote access tools for Local Networks
 
 ## [EyeVincent](https://github.com/sergkrumas/eye_vincent) [PyQt] [Windows]
 Open source EyeLeo Clone
+
+## [Physmath Books](https://github.com/sergkrumas/physmath)
