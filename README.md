@@ -3,6 +3,8 @@ HoudiniFX/Blender3D/Maya Developer
 
 Python/C/C++/PyQt
 
+https://www.youtube.com/@SergeiKrumas
+
 ## [Oxxxy Screenshoter](https://github.com/sergkrumas/oxxxy) [PyQt] [Windows]
 
 ![](https://github.com/sergkrumas/oxxxy/blob/master/docs/screenshot.png)
