@@ -1,7 +1,7 @@
 
-HoudiniFX/Blender3D/Maya Developer
+![](pics/pavarotti.jpeg)
 
-Python/C/C++/PyQt
+HoudiniFX/Blender3D/Maya Developer [Python/C/C++/PyQt]
 
 https://www.youtube.com/@SergeiKrumas
 
