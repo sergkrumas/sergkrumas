@@ -1,9 +1,7 @@
 
 ![](pics/pavarotti.jpeg)
 
-HoudiniFX/Blender3D/Maya Developer [Python/C/C++/PyQt]
-
-https://www.youtube.com/@SergeiKrumas
+HoudiniFX/Blender3D/Maya Developer [Python/C/C++/PyQt] https://www.youtube.com/@SergeiKrumas
 
 ## [Oxxxy Screenshoter](https://github.com/sergkrumas/oxxxy) [PyQt] [Windows]
 
