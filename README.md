@@ -4,6 +4,8 @@
 HoudiniFX/Blender3D/Maya Developer [Python/C/C++/PyQt] https://www.youtube.com/@SergeiKrumas
 
 
+![](data/cat-moar.gif)
+
 ## [Krumassan Image Viewer](https://github.com/sergkrumas/image_viewer) [PyQt] [Windows]
 
 ![](https://github.com/sergkrumas/image_viewer/blob/master/docs/screenshot.png)
