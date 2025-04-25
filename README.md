@@ -1,9 +1,6 @@
 
 ![](pics/pavarotti.jpeg)
 
-HoudiniFX/Blender3D/Maya Developer [Python/C/C++/PyQt]
-
-Youtube Channel https://www.youtube.com/@SergeiKrumas
 
 ## [Krumassan Image Viewer](https://github.com/sergkrumas/image_viewer) [PyQt] [Windows]
 
